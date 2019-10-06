@@ -39,7 +39,7 @@ but failed
 Github need identify this user and email address
 
 *run
-git config --global user.email "jfng11@gmail.com"
+git config --global user.email ".com"
 git config --global user.name "worm11-u"
 
 identified
